@@ -1,0 +1,11 @@
+# pycharm
+*.xml
+*/.idea/
+.idea
+*.pyc
+*.png
+
+
+# model
+*ckpt*
+checkpoint
