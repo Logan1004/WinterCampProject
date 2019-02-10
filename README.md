@@ -1,4 +1,4 @@
-# WinterCampProject
+# Winter Camp Project
 
 This is a group project in the winter camp. The project is a book fetching system. The idea comes from our own difficulty in finding books in the library. Through the investigation, we find that there commonly exists several problems in the current library system and the difficulty in finding the book is among them, according to which, we figured out the idea of the Library Improvement and the fetching system is a part of it. 
 ***
